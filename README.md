@@ -34,21 +34,25 @@ I met a lot of difficuties. Please read this file to see how I failed my initial
 ### How to run the app?
 
 - Run the command in my terminal: streamlit run streamlit_web_app.py
-<img width="609" alt="Screenshot 2025-03-03 at 14 45 32" src="https://github.com/user-attachments/assets/eca09d6d-d8c5-4e32-b637-6739a4410280" />
+<img width="500" alt="Screenshot 2025-03-03 at 14 45 32" src="https://github.com/user-attachments/assets/eca09d6d-d8c5-4e32-b637-6739a4410280" />
 
 - The web app will be display automatically in your default browser
-<img width="1453" alt="Screenshot 2025-03-03 at 14 46 49" src="https://github.com/user-attachments/assets/7fb645e1-d9f0-472a-8023-d230621451bc" />
+<img width="1200" alt="Screenshot 2025-03-03 at 14 46 49" src="https://github.com/user-attachments/assets/7fb645e1-d9f0-472a-8023-d230621451bc" />
 
 - You can filter/choose the stock data as you like to discover/comapre different ones
-<img width="324" alt="Screenshot 2025-03-03 at 14 47 31" src="https://github.com/user-attachments/assets/039097f6-35b6-41e9-8c8b-9be9817aa36a" />
+<img width="300" alt="Screenshot 2025-03-03 at 14 47 31" src="https://github.com/user-attachments/assets/039097f6-35b6-41e9-8c8b-9be9817aa36a" />
 
-<img width="577" alt="Screenshot 2025-03-03 at 14 49 31" src="https://github.com/user-attachments/assets/376a0a82-d7f8-4050-87eb-469df8bd0ec8" />
+<img width="400" alt="Screenshot 2025-03-03 at 14 49 31" src="https://github.com/user-attachments/assets/376a0a82-d7f8-4050-87eb-469df8bd0ec8" />
 
 - You can set up the date range as you like in the side bar
 <img width="257" alt="Screenshot 2025-03-03 at 14 49 54" src="https://github.com/user-attachments/assets/dc4e32b8-7b0e-4657-b75a-c0ac8dd00b5e" />
 
 - You can search a company's name to view the stock price in detail
-<img width="566" alt="Screenshot 2025-03-03 at 14 50 37" src="https://github.com/user-attachments/assets/48e09cb4-7d12-4363-9bf0-6ed737cfea7a" />
+<img width="500" alt="Screenshot 2025-03-03 at 14 50 37" src="https://github.com/user-attachments/assets/48e09cb4-7d12-4363-9bf0-6ed737cfea7a" />
+
+- The web app enables you to upload a new dataset regarding stock price
+<img width="500" alt="Screenshot 2025-03-03 at 14 52 13" src="https://github.com/user-attachments/assets/f9966205-d178-418a-ae98-106ee30e62e6" />
+
 
 
 

@@ -37,7 +37,7 @@ I met a lot of difficuties. Please read this file to see how I failed my initial
 <img width="500" alt="Screenshot 2025-03-03 at 14 45 32" src="https://github.com/user-attachments/assets/eca09d6d-d8c5-4e32-b637-6739a4410280" />
 
 - The web app will be display automatically in your default browser
-<img width="1200" alt="Screenshot 2025-03-03 at 14 46 49" src="https://github.com/user-attachments/assets/7fb645e1-d9f0-472a-8023-d230621451bc" />
+<img width="900" alt="Screenshot 2025-03-03 at 14 46 49" src="https://github.com/user-attachments/assets/7fb645e1-d9f0-472a-8023-d230621451bc" />
 
 - You can filter/choose the stock data as you like to discover/comapre different ones
 <img width="300" alt="Screenshot 2025-03-03 at 14 47 31" src="https://github.com/user-attachments/assets/039097f6-35b6-41e9-8c8b-9be9817aa36a" />

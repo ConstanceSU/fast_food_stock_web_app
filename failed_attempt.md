@@ -23,5 +23,7 @@ Despite my efforts, the API restrictions made it impossible to achieve the desir
 While frustrating, this experience taught me valuable lessons in:
 
 *Feasibility assessment before coding*
+
 *The importance of API documentation*
+
 *Quick prototyping & failing fast*
